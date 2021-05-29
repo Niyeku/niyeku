@@ -21,3 +21,8 @@
 
 <br />
 <br />
+
+## 🌍 Social Media
+- [Instagram](https://www.instagram.com/alvindata)
+- [Twitch](https://twitch.com/alvindata)
+- [Reddit](https//reddit.com/alvindata)
