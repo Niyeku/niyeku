@@ -1,11 +1,13 @@
 ### Hello, I'am Alvin
  
-- 💻 Professional Coder 💻
+- 💻 Professional Coder
 
-- 🔭 We Give Private Lessons On Our Discord Server: [Become A VS Code SuperHero!][discord]!
 - 🌱 I’m currently learning everything 🤣
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2021 Goals: Expanding Our Platform
+
 - ⚡ Fun fact: I Love Working And Making Videos On YouTube
 
 ### Languages and Tools:
